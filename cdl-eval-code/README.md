@@ -4,8 +4,6 @@
 
 Code and results for the article
 
-> Md Rasel Sarkar and Md Meftaul Ferdaous, "CDL-Eval: A Zero-Shot Framework for Evaluating Calibration,
-> Dependence, and Leakage of Time Series Foundation Models," 2026 (in preparation).
 
 Pretrained time series foundation models forecast new series without training. Decisions such as unit commitment
 and reserve sizing need more than accurate point forecasts: they need intervals that contain the stated share of
@@ -145,17 +143,7 @@ models take seconds to minutes per dataset.
 
 **5. Reports.** Run the commands of the previous section.
 
-## Citation
 
-```bibtex
-@article{sarkar2026cdleval,
-  author = {Sarkar, Md Rasel and Ferdaous, Md Meftaul},
-  title  = {{CDL-Eval}: A Zero-Shot Framework for Evaluating Calibration, Dependence, and Leakage of
-            Time Series Foundation Models},
-  year   = {2026},
-  note   = {In preparation}
-}
-```
 
 ## License
 
