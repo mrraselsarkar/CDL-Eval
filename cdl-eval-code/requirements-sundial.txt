@@ -1,0 +1,8 @@
+# Separate environment for Sundial's released generation routine (realdata/sundial_official.py),
+# which requires the transformers version named on the model card.
+torch==2.11.0
+transformers==4.40.1
+numpy==2.5.4
+pandas==3.0.6
+pyarrow==26.0.0
+scipy==1.18.1

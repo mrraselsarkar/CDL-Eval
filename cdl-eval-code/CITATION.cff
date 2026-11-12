@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code or its results, please cite the article below."
+title: "CDL-Eval: code and results"
+type: software
+authors:
+  - family-names: Sarkar
+    given-names: Md Rasel
+  - family-names: Ferdaous
+    given-names: Md Meftaul
+license: MIT
+version: 1.0.0
+keywords:
+  - time series forecasting
+  - foundation models
+  - diffusion models
+  - probabilistic forecasting
+  - calibration
+  - data leakage
+preferred-citation:
+  type: article
+  title: "CDL-Eval: A Zero-Shot Framework for Evaluating Calibration, Dependence, and Leakage of Time Series Foundation Models"
+  authors:
+    - family-names: Sarkar
+      given-names: Md Rasel
+    - family-names: Ferdaous
+      given-names: Md Meftaul
+  year: 2026
+  status: in-preparation
